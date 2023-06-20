@@ -11,4 +11,5 @@ For this project i wanted to create an application that started with a base of l
 
 ## Links
 Repository: https://github.com/ChazCoats98/Chaz-Coats--Password-Generator-Application
+
 Deployed Application: https://chazcoats98.github.io/Chaz-Coats--Password-Generator-Application/
